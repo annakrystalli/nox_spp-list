@@ -9,7 +9,7 @@ NERC grant application fro project:
 
 We can offer a tiered approach dependant on budget:
 
-1. Develop the database and host it online
+1. Develop the database and host it online.
 2. Develop a REST API
 3. Develop an R package wrapper around the API
 
