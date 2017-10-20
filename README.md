@@ -20,13 +20,14 @@ Planned as a collaboration betweeen RSE and the Library.
 # ACTION PLAN
 
 ## 1. BUILD DATABASE AND HOST ONLINE
-  - for the duration of the project.
+  - Hosted, updated and supported for the duration of the project.
 ## 2. DEVELOP SOFTWARE TO FACILITATE EASY ACCESS TO DATA
   - build around user needs to facilitate easy querying.
+  - R package for accessing and manipulating the data 
 ## 3. DEVELOP ARCHIVE VERSION
-  - Bundle database and software to facilitate:
-    a. archiving
-    b. retaining accessibility and functionality when deployed locally
+  Once the project ends, there will be no funds to maintain a live instance of the database.
+   - To ensure long-term sustainability, we will archive the data in a permanent repository such as Zenodo or Orda
+   - Software will be developed that will allow automatic construction of a live database for others to host, either locally or online
 ## 4. DEVELOP DOCUMENTATION
   - Version controlled fully documented record of development
   - Documentation on access and use of live database
