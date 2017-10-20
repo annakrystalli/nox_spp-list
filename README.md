@@ -7,17 +7,34 @@ NERC grant application fro project:
 
 ## RSE proposal:
 
-We can offer a tiered approach dependant on budget:
+Planned as a collaboration betweeen RSE and the Library.
 
-1. Develop the database and host it online.
-2. Develop a REST API
-3. Develop an R package wrapper around the API
+**Estimated time: 6 months**
+
+**Estimated cost:**
 
 <br>
 
-## Proposed action:
+***
 
-Collaborate with the library pn creating a solutiun
+# ACTION PLAN
+
+## 1. BUILD DATABASE AND HOST ONLINE
+  - for the duration of the project.
+## 2. DEVELOP SOFTWARE TO FACILITATE EASY ACCESS TO DATA
+  - build around user needs to facilitate easy querying.
+## 3. DEVELOP ARCHIVE VERSION
+  - Bundle database and software to facilitate:
+    a. archiving
+    b. retaining accessibility and functionality when deployed locally
+## 4. DEVELOP DOCUMENTATION
+  - Version controlled fully documented record of development
+  - Documentation on access and use of live database
+  - Documentation on access and use of archived database
+
+<br>
+
+
 
 
 
