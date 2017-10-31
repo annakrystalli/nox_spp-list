@@ -22,10 +22,12 @@ This field is generally a fast evolving ecosystem, both in terms of power of ava
 # ACTION PLAN
 
 ## 1. CONSULT AND DESIGN DATABASE SCHEMA
- It is important for efficiency of the project that our involvement in the implementation of the DMP begin right at the beginning and continue throughout. In this way we can get a good understanding of function and pressure points in:
+ It is important for efficiency of the project that our involvement in the implementation of the DMP and design of the deta model begin right at the beginning and continue throughout. In this way we can get a good understanding of function and pressure points in:
  - the compilation of data 
  - alignment of data
  - intended use of data by researchers.
+ 
+ The data model will ensure that all pertinent metadata are stored either within or with the database and full traceability and record of datapoint provenance is maintained.
 
 ## 2. BUILD DATABASE AND HOST ONLINE
   Once the data model has been agreed, we will be build the first version of the database and provide scripts and support for the research team to be able to add data. If there is enough time, updating the database could also be included in the software package. See below 
@@ -46,9 +48,11 @@ There is also the potential to submit the package for rOpenSci review.
    - Software will be developed that will allow automatic construction of a live database for others to host, either locally or online
    
 ## 5. DEVELOP DOCUMENTATION
-  - Version controlled fully documented record of development
-  - Documentation on access and use of live database
-  - Documentation on access and use of archived database
+Version controlled fully documented record of development of the database and software. This will ensure transparency and reproducibility of all project outputs. As well as the data and software products, full web-hosted documentation will be provided on:
+  - Access and use of live database
+  - Access and use of the API
+  - Deployment and use of archived database
+
 
 <br>
 
