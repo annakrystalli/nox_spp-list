@@ -19,7 +19,7 @@ Going to this effort of RDM means the fruits of this important work for both res
 
 **Estimated time: 6 months**
 
-**Estimated cost:**
+**Estimated cost: £50,000**
 
 <br>
 
