@@ -19,9 +19,10 @@ This field is generally a fast evolving ecosystem, both in terms of power of ava
 Going to this effort of RDM support the integrity, transparency and openness of the research the data will support. It will also ensure the continuing availability of the fruits of this important work in the form of high data quality and integrity while an emphasis on accessibility tools in a variety of ways will allow for multiple and diverse downstream use cases for a variety of stakeholders, including research, teaching, and wider exploitation for the public good, by individuals, government, business and other organisations. This enables the maximum value to be gained from the investment of public funds made in their compilation and provides the widest possible opportunities for re-use of these data.
 
 
-**Estimated time: 6 months**
 
-**Estimated cost: £50,000**
+**Estimated time: 6 months spread over the duration of the project**
+
+**Estimated cost: Approx £36,000 (based on a daily rate of £274)**
 
 <br>
 

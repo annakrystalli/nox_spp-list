@@ -11,7 +11,7 @@ Planned as a collaboration betweeen RSE and the Library.
 
 **Estimated time: 6 months**
 
-**Estimated cost:**
+**Estimated cost: Approx £36,000 (based on a daily rate of £274)**
 
 <br>
 
