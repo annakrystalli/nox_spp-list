@@ -30,7 +30,7 @@ There is also the potential to submit the package for rOpenSci review.
 
 ### 4. DEVELOP ARCHIVE VERSION
   Once the project ends, there will be no funds to maintain a live instance of the database.
-   - To ensure long-term sustainability, we will archive the data in a permanent repository such as Zenodo or Orda
+   - To ensure long-term sustainability, we will archive the data in a NERC data center.
    - Software will be developed that will allow automatic construction of a live database for others to host, either locally or online
    
 ### 5. DEVELOP DOCUMENTATION
