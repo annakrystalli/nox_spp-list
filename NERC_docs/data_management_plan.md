@@ -18,7 +18,7 @@ This is where the fine detail can go. Which DB, hosting, R packages, etc...
 
 ### 2. BUILD DATABASE AND HOST ONLINE
 
-  Once the data model has been agreed, we will be build the first version of the database and provide scripts and support for the research team to be able to add data. If there is enough time, updating the database could also be included in the software package. See below. Additionally we will work with NERC data centres to get the database assigned with a formal DOI and keep it updated to reflect versioning of the data. Appropriate licenses will also be prepared.
+  Once the data model has been agreed, we will be build the first version of the database and provide scripts and support for the research team to be able to add data. If there is enough time, updating the database could also be included in the software package. See below. Additionally we will work with the NERC Environmental Information Data Centre (EIDC) to get the database assigned with a formal DOI and keep it updated to reflect versioning of the data. Appropriate licenses will also be prepared.
   
 ### 3. DEVELOP SOFTWARE TO FACILITATE EASY ACCESS TO DATA
 
