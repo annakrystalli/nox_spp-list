@@ -23,11 +23,11 @@ This is where the fine detail can go. Which DB, hosting, R packages, etc...
   
 ### 3. DEVELOP SOFTWARE TO FACILITATE EASY ACCESS TO DATABASE
 
-The primary objective of the software development stage is to facilitate easy user querying according to their most likely query needs. It will take the form of a lighweight R package built around an API that follows best **outside in** development principles. This underpins the necessity for RSE to be involved from the outset, to be able to work on the user-interface first in order to guide the data model. It also involves iterating the design of the API in response to feedback by the research team through validation and testing stages to ensure both the API and software are fit for purpose.
+The primary objective of the software development stage is to facilitate easy user querying according to their most likely query needs. It will take the form of a lightweight R package built around an API that follows best **outside in** development principles. This underpins the necessity for RSE to be involved from the outset, to be able to work on the user-interface first in order to guide the data model. It also involves iterating the design of the API in response to feedback by the research team through validation and testing stages to ensure both the API and software are fit for purpose.
 
 The API will ensure that the database can be used as a service to other data apps while the R package software will allow easy access to users, optimising both machine and human access to the data.
 
-### 4. DEVELOP ARCHIVE VERSION OF DATABASE FOR  POST-PROJECT SUSTAIBABILITY
+### 4. DEVELOP ARCHIVE VERSION OF DATABASE FOR  POST-PROJECT SUSTAINABILITY
 
 Once the project ends, there will be no funds to maintain a live instance of the database.
    - To ensure long-term sustainability, we will archive the data in a NERC data center.
